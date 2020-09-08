@@ -1,0 +1,28 @@
+li {
+    font-size: 20px;
+    color: indigo;
+}
+
+.frutas{
+    color: orange;
+    font-size: 25px;
+}
+
+.carnes{
+    color: tomato;
+    font-size: 25px;
+}
+
+.verduras{
+    color: yellowgreen;
+    font-size: 25px;
+}
+
+body{
+    background-color: grey;
+}
+
+img{
+    width: 15%;
+    height: 15%;
+}
